@@ -1,0 +1,43 @@
+body,
+.widget {
+	background-color: #fff;
+}
+.static-heading {
+	text-transform: uppercase;
+}
+.lastest-post {
+	padding: 100px 0;
+}
+article.post {
+	margin-bottom: 30px;
+}
+.bannar-area {
+	background-color: #F7F8F9;
+	position: relative;
+	padding-top: 50px;
+}
+.bannar-area .content-overlay {
+	display: table-cell;
+	padding: 150px 20px;
+	text-align: left;
+}
+.content-overlay {
+	position: relative;
+	height: 100%;
+	width: 100%;
+	display: table;
+	vertical-align: middle;
+	text-align: center;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	overflow: hidden;
+	padding: 70px 20px;
+}
+.entry-content h2 {
+	margin-top: 15px;
+}
+.entry-content p {
+	display: inline;
+}
+
